@@ -41,15 +41,6 @@ Business Insights & Recommendations
 ```
 
 ---
-
-# 📊 Dashboard Preview
-
-> 📌 Add a screenshot of your Power BI dashboard inside an `images` folder.
-
-![Power BI Dashboard](images/dashboard.png)
-
----
-
 ## 📂 Dataset
 
 The dataset contains:
@@ -102,14 +93,6 @@ import pandas as pd
 df = pd.read_csv("customer_shopping_behavior.csv")
 df.head()
 ```
-
-### 📸 Python Analysis Screenshot
-
-Add a screenshot of your Jupyter Notebook or VS Code analysis here:
-
-![Python EDA](images/python_eda.png)
-
----
 
 ## 2️⃣ Exploratory Data Analysis
 
@@ -180,12 +163,6 @@ PostgreSQL Database
 SQL Business Analysis
 ```
 
-### 📸 PostgreSQL Screenshot
-
-![PostgreSQL Analysis](images/postgresql.png)
-
----
-
 # 📝 SQL Analysis
 
 SQL queries were used to answer important business questions.
@@ -219,11 +196,6 @@ An interactive Power BI dashboard was created to visualize important customer an
 * 🎯 Discount analysis
 * 👤 Age group analysis
 * 🔍 Interactive filters and slicers
-
-### 🖼️ Dashboard
-
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
-
 ---
 
 # 💡 Results & Insights
@@ -272,11 +244,6 @@ A project presentation was created using **Gamma** to communicate:
 * Key insights
 * Dashboard findings
 * Business recommendations
-
-### 📸 Presentation Preview
-
-![Project Presentation](images/presentation.png)
-
 ---
 
 # 📁 Project Structure
